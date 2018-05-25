@@ -34,9 +34,23 @@
       <file leaf-file-name="LifetrackMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/claudine/simplemusicplayer/LifetrackMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="341" column="19" lean-forward="false" selection-start-line="341" selection-start-column="19" selection-end-line="341" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="258">
+              <caret line="293" column="39" lean-forward="false" selection-start-line="293" selection-start-column="39" selection-end-line="293" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1839#1847#0" expanded="true" />
+                <element signature="e#3139#3173#0" expanded="true" />
+                <element signature="e#3211#3244#0" expanded="true" />
+                <element signature="e#3289#3300#0" expanded="true" />
+                <element signature="e#3302#3863#0" expanded="true" />
+                <element signature="e#3862#3863#0" expanded="true" />
+                <element signature="e#6531#6687#0" expanded="true" />
+                <element signature="e#6686#6687#0" expanded="true" />
+                <element signature="e#11402#14923#0" expanded="true" />
+                <element signature="e#14634#14897#0" expanded="true" />
+                <element signature="e#14896#14897#0" expanded="true" />
+                <element signature="e#14922#14923#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -2185,8 +2199,8 @@
         <option value="$PROJECT_DIR$/src/main/res/layout/settags.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/claudine/simplemusicplayer/MusicService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/claudine/simplemusicplayer/LifetrackMain.java" />
         <option value="$PROJECT_DIR$/src/main/res/menu/menu.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/claudine/simplemusicplayer/LifetrackMain.java" />
       </list>
     </option>
   </component>
@@ -2458,7 +2472,7 @@
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2468,7 +2482,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2063854" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4082098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2614,7 +2628,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5019">
           <caret line="280" column="58" lean-forward="false" selection-start-line="280" selection-start-column="58" selection-end-line="280" selection-end-column="58" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1839#1847#0" expanded="true" />
+            <element signature="e#3139#3173#0" expanded="true" />
+            <element signature="e#3211#3244#0" expanded="true" />
+            <element signature="e#3289#3300#0" expanded="true" />
+            <element signature="e#3302#3863#0" expanded="true" />
+            <element signature="e#3862#3863#0" expanded="true" />
+            <element signature="e#6531#6687#0" expanded="true" />
+            <element signature="e#6686#6687#0" expanded="true" />
+            <element signature="e#11402#14923#0" expanded="true" />
+            <element signature="e#14634#14897#0" expanded="true" />
+            <element signature="e#14896#14897#0" expanded="true" />
+            <element signature="e#14922#14923#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2709,7 +2737,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4935">
           <caret line="276" column="50" lean-forward="false" selection-start-line="276" selection-start-column="50" selection-end-line="276" selection-end-column="50" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1839#1847#0" expanded="true" />
+            <element signature="e#3139#3173#0" expanded="true" />
+            <element signature="e#3211#3244#0" expanded="true" />
+            <element signature="e#3289#3300#0" expanded="true" />
+            <element signature="e#3302#3863#0" expanded="true" />
+            <element signature="e#3862#3863#0" expanded="true" />
+            <element signature="e#6531#6687#0" expanded="true" />
+            <element signature="e#6686#6687#0" expanded="true" />
+            <element signature="e#11402#14923#0" expanded="true" />
+            <element signature="e#14634#14897#0" expanded="true" />
+            <element signature="e#14896#14897#0" expanded="true" />
+            <element signature="e#14922#14923#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2797,7 +2839,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4200">
           <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1839#1847#0" expanded="true" />
+            <element signature="e#3139#3173#0" expanded="true" />
+            <element signature="e#3211#3244#0" expanded="true" />
+            <element signature="e#3289#3300#0" expanded="true" />
+            <element signature="e#3302#3863#0" expanded="true" />
+            <element signature="e#3862#3863#0" expanded="true" />
+            <element signature="e#6531#6687#0" expanded="true" />
+            <element signature="e#6686#6687#0" expanded="true" />
+            <element signature="e#11402#14923#0" expanded="true" />
+            <element signature="e#14634#14897#0" expanded="true" />
+            <element signature="e#14896#14897#0" expanded="true" />
+            <element signature="e#14922#14923#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3009,9 +3065,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/claudine/simplemusicplayer/LifetrackMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="341" column="19" lean-forward="false" selection-start-line="341" selection-start-column="19" selection-end-line="341" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="258">
+          <caret line="293" column="39" lean-forward="false" selection-start-line="293" selection-start-column="39" selection-end-line="293" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1839#1847#0" expanded="true" />
+            <element signature="e#3139#3173#0" expanded="true" />
+            <element signature="e#3211#3244#0" expanded="true" />
+            <element signature="e#3289#3300#0" expanded="true" />
+            <element signature="e#3302#3863#0" expanded="true" />
+            <element signature="e#3862#3863#0" expanded="true" />
+            <element signature="e#6531#6687#0" expanded="true" />
+            <element signature="e#6686#6687#0" expanded="true" />
+            <element signature="e#11402#14923#0" expanded="true" />
+            <element signature="e#14634#14897#0" expanded="true" />
+            <element signature="e#14896#14897#0" expanded="true" />
+            <element signature="e#14922#14923#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

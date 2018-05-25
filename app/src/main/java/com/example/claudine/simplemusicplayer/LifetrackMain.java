@@ -283,7 +283,7 @@ public class LifetrackMain extends AppCompatActivity implements BeaconConsumer {
                 Beacon closestBeacon = null;
                 boolean match = false;
                 beaconIds.clear();
-                double minDistance = 100;
+                double minDistance = Double.POSITIVE_INFINITY;
                 int songIndex = 0;
                 Log.i(TAG,"Beacons Detected: " + beacons.size());
                 //Look through all the beacons and find the closest beacon
